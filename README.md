@@ -1,1 +1,2 @@
-These are some basic machine learning projects I made to get to know about how ML works.
+# Description
+This project uses Supervised Learning to determine the species of flower. More specifically it uses KNN Algorithm.
